@@ -1,4 +1,5 @@
 # rustai
+<img src="https://github.com/xi9d/rustai/blob/main/assets/version%201.2.png">
 Overview
 TouristXi9d is a Rust-based desktop application that serves as an AI client for interacting with the Ollama API. It features Retrieval-Augmented Generation (RAG) for context-aware responses and analytics to track usage metrics. The application uses the egui library for a modern graphical user interface, allowing users to input prompts, load text files for context, view AI-generated responses, and monitor analytics like request counts and response times. Conversations are saved in a SQLite database and as text files for persistence.
 Features
