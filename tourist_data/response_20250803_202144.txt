@@ -1,0 +1,14 @@
+Timestamp: 2025-08-03 20:21:44
+Model: deepseek-r1:7b
+Response Time: 8246ms
+
+Prompt:
+hello
+
+
+Response:
+<think>
+
+</think>
+
+Hello! How can I assist you today? 😊

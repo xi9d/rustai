@@ -3146,6 +3146,20 @@ dependencies = [
 ]
 
 [[package]]
+name = "rustai"
+version = "0.1.0"
+dependencies = [
+ "chrono",
+ "eframe",
+ "egui",
+ "reqwest",
+ "rfd",
+ "rusqlite",
+ "serde",
+ "tokio",
+]
+
+[[package]]
 name = "rustc-demangle"
 version = "0.1.26"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -3775,20 +3789,6 @@ dependencies = [
  "indexmap",
  "toml_datetime",
  "winnow 0.7.12",
-]
-
-[[package]]
-name = "tourist_xi9d"
-version = "0.1.0"
-dependencies = [
- "chrono",
- "eframe",
- "egui",
- "reqwest",
- "rfd",
- "rusqlite",
- "serde",
- "tokio",
 ]
 
 [[package]]
